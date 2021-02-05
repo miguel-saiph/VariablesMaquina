@@ -17,3 +17,5 @@
 
  ![Alt text](img/tuto_4.png?raw=true "Tuto 4")
  ![Alt text](img/tuto_5.png?raw=true "Tuto 5")
+
+ Al ingresar las variables se generará abajo un texto con el formato requerido listo para pegar en la máquina

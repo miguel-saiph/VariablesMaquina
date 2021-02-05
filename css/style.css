@@ -1,0 +1,31 @@
+#poke {
+  cursor: pointer;
+}
+
+.varContainer {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-template-columns: 1fr, 2fr, 1fr;
+}
+
+.var {
+  grid-column: span 2;
+}
+
+.varInput {
+  font-size: 1.3em;
+}
+
+#result {
+  border: 1px solid black;
+  width: 50%;
+  padding: 1em;
+  font-size: 1.5em;
+}
+
+input[type="text"] {
+  width: 3em;
+  height: 2em;
+  font-size: 1em;
+  margin-left: 15px;
+}
